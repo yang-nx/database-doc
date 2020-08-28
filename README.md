@@ -217,7 +217,7 @@ public class ScrewApplicationTests {
 
 ### `HTML`文档样式
 
-![image-20200828104329063](C:\Users\wangy\AppData\Roaming\Typora\typora-user-images\image-20200828104329063.png)
+![image-20200828104329063](https://www.qfeng.online/imgs/java/screw/Snipaste_2020-08-28_10-43-20.jpg)
 
 
 
