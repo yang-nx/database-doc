@@ -1,5 +1,6 @@
 # database-doc
 快速构建数据库文档
+##  详细文档 https://wangyang-y.github.io/2020/08/28/screw%E7%94%9F%E6%88%90%E6%95%B0%E6%8D%AE%E5%BA%93%E6%96%87%E6%A1%A3/
 ##  一键生成数据库文档，堪称数据库界的Swagger，有点厉害!
 
 ### 数据库支持
